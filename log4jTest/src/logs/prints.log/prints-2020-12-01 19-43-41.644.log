@@ -1,0 +1,11 @@
+19:43:39.322 [main] ERROR alpha.Demo - errormsg0
+19:43:39.434 [main] FATAL alpha.Demo - fatalmsg0
+19:43:39.764 [main] ERROR alpha.Demo - errormsg1
+19:43:39.875 [main] FATAL alpha.Demo - fatalmsg1
+19:43:40.208 [main] ERROR alpha.Demo - errormsg2
+19:43:40.318 [main] FATAL alpha.Demo - fatalmsg2
+19:43:40.650 [main] ERROR alpha.Demo - errormsg3
+19:43:40.760 [main] FATAL alpha.Demo - fatalmsg3
+19:43:41.090 [main] ERROR alpha.Demo - errormsg4
+19:43:41.201 [main] FATAL alpha.Demo - fatalmsg4
+19:43:41.531 [main] ERROR alpha.Demo - errormsg5

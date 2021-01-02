@@ -1,0 +1,9 @@
+19:43:46.035 [main] FATAL alpha.Demo - fatalmsg15
+19:43:46.393 [main] ERROR alpha.Demo - errormsg16
+19:43:46.502 [main] FATAL alpha.Demo - fatalmsg16
+19:43:46.830 [main] ERROR alpha.Demo - errormsg17
+19:43:46.938 [main] FATAL alpha.Demo - fatalmsg17
+19:43:47.270 [main] ERROR alpha.Demo - errormsg18
+19:43:47.378 [main] FATAL alpha.Demo - fatalmsg18
+19:43:47.708 [main] ERROR alpha.Demo - errormsg19
+19:43:47.818 [main] FATAL alpha.Demo - fatalmsg19

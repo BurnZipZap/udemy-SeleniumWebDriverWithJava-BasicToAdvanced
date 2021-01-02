@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="4" parallel="tests" name="Failed suite [MySuite]">
+  <parameter name="APIKEY" value="adadasdasdasdsadsa"/>
+  <parameter name="URL" value="www.vk.com"/>
+  <test parallel="tests" name="Car loan(failed)">
+    <parameter name="URL" value="www.vk.com"/>
+    <classes>
+      <class name="mainpac.Day1">
+        <methods>
+          <include name="before"/>
+          <include name="after"/>
+        </methods>
+      </class> <!-- mainpac.Day1 -->
+      <class name="mainpac.Day2">
+        <methods>
+          <include name="before"/>
+        </methods>
+      </class> <!-- mainpac.Day2 -->
+      <class name="mainpac.Day3">
+        <methods>
+          <include name="bm"/>
+          <include name="bs"/>
+          <include name="bc"/>
+          <include name="mobileLogin"/>
+          <include name="ac"/>
+          <include name="as"/>
+          <include name="login"/>
+          <include name="am"/>
+          <include name="webLogin"/>
+        </methods>
+      </class> <!-- mainpac.Day3 -->
+    </classes>
+  </test> <!-- Car loan(failed) -->
+</suite> <!-- Failed suite [MySuite] -->
